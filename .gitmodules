@@ -1,0 +1,21 @@
+[submodule "kh-sample-cleaning"]
+	path = kh-sample-cleaning
+	url = https://github.com/czbiohub/kh-sample-cleaning
+[submodule "aguamenti"]
+	path = aguamenti
+	url = https://github.com/czbiohub/aguamenti
+[submodule "nf-kmer-similarity"]
+	path = nf-kmer-similarity
+	url = https://github.com/czbiohub/nf-kmer-similarity
+[submodule "kh-workflows"]
+	path = kh-workflows
+	url = https://github.com/czbiohub/kh-workflows
+[submodule "kh-analysis"]
+	path = kh-analysis
+	url = https://github.com/czbiohub/kh-analysis
+[submodule "kh-tools"]
+	path = kh-tools
+	url = https://github.com/czbiohub/kh-tools
+[submodule "kh-presentations"]
+	path = kh-presentations
+	url = https://github.com/czbiohub/kh-presentations
