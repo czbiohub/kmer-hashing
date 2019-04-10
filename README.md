@@ -18,3 +18,12 @@ git submodule update --init --remote
 ```
 git clone --recursive https://github.com/czbiohub/kmer-hashing
 ```
+
+
+## Installation
+
+Install all the dependencies with:
+
+```
+conda env create --file environment.yml --name kmer-hashing
+```
